@@ -1,0 +1,291 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "karim",
+      "textPost": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+      "interactionNumber": 23,
+      "createdAt": "December 10, 2022",
+      "time": "9:41 "
+    },
+    {
+      "id": 2,
+      "name": "ibraim mo",
+      "textPost": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+      "interactionNumber": 34,
+      "createdAt": "December 24,2022",
+      "time": "13:49"
+    },
+    {
+      "id": 3,
+      "name": "khaled",
+      "textPost": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+      "interactionNumber": 34,
+      "createdAt": "December 20, 2020",
+      "time": "10:41"
+    },
+    {
+      "id": 4,
+      "name": "khaled",
+      "textPost": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+      "interactionNumber": 14,
+      "createdAt": "December 11, 2020",
+      "time": "11:41 "
+    },
+    {
+      "id": 5,
+      "name": "karim",
+      "textPost": "karimdfjdkfjhdf",
+      "interactionNumber": 0,
+      "createdAt": "December 27,2022",
+      "time": "14:35"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "ahmed",
+      "age": 23,
+      "phoneNumber": "01012988",
+      "email": "ahmed@example.com",
+      "type": "user",
+      "joinedData": "2022-12-14",
+      "birthday": "2022-12-14",
+      "address": "1234 Main Street, Germany",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "amad",
+      "age": 27,
+      "phoneNumber": "01012087",
+      "email": "amad@example.com",
+      "type": "user",
+      "joinedData": "2023-01-05",
+      "birthday": "2022-12-29",
+      "address": "1234 Main Street, Germany",
+      "status": "inActive"
+    },
+    {
+      "id": 3,
+      "name": "khaledd",
+      "age": 27,
+      "phoneNumber": "01012087",
+      "email": "amad@example.com",
+      "type": "user",
+      "joinedData": "2022-12-14",
+      "birthday": "2022-12-14",
+      "address": "1234 Main Street, Germany",
+      "status": "inActive"
+    },
+    {
+      "id": 4,
+      "name": "awad",
+      "age": 33,
+      "phoneNumber": "01012087",
+      "email": "amad@example.com",
+      "type": "user",
+      "joinedData": "2022-12-14",
+      "birthday": "2022-12-14",
+      "address": "1234 Main Street, Germany",
+      "status": "inActive"
+    },
+    {
+      "id": 5,
+      "name": "karim",
+      "age": "23",
+      "phoneNumber": "3343",
+      "email": "dmfnbdf@",
+      "type": "usesr",
+      "joinedData": "2022-12-24",
+      "birthday": "2023-01-05",
+      "address": "dddffd",
+      "status": "active"
+    },
+    {
+      "id": 1,
+      "name": "ahmed",
+      "age": 23,
+      "phoneNumber": "01012988",
+      "email": "ahmed@example.com",
+      "type": "user",
+      "joinedData": "2022-12-14",
+      "birthday": "2022-12-14",
+      "address": "1234 Main Street, Germany",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "amad",
+      "age": 27,
+      "phoneNumber": "01012087",
+      "email": "amad@example.com",
+      "type": "user",
+      "joinedData": "2023-01-05",
+      "birthday": "2022-12-29",
+      "address": "1234 Main Street, Germany",
+      "status": "inActive"
+    },
+    {
+      "id": 3,
+      "name": "khaledd",
+      "age": 27,
+      "phoneNumber": "01012087",
+      "email": "amad@example.com",
+      "type": "user",
+      "joinedData": "2022-12-14",
+      "birthday": "2022-12-14",
+      "address": "1234 Main Street, Germany",
+      "status": "inActive"
+    },
+    {
+      "id": 4,
+      "name": "awad",
+      "age": 33,
+      "phoneNumber": "01012087",
+      "email": "amad@example.com",
+      "type": "user",
+      "joinedData": "2022-12-14",
+      "birthday": "2022-12-14",
+      "address": "1234 Main Street, Germany",
+      "status": "inActive"
+    },
+    {
+      "id": 5,
+      "name": "karim",
+      "age": "23",
+      "phoneNumber": "3343",
+      "email": "dmfnbdf@",
+      "type": "usesr",
+      "joinedData": "2022-12-24",
+      "birthday": "2023-01-05",
+      "address": "dddffd",
+      "status": "active"
+    }
+  ],
+  "champions": [
+    {
+      "id": 1,
+      "championshipName": "Paddle Championship",
+      "numberOfSubscribers": 76,
+      "subscriptionCost": 20,
+      "subscriptionTerms": "",
+      "description": "",
+      "createAt": "2022-12-14",
+      "startingDate": "",
+      "expiryDate": "",
+      "location": "",
+      "status": "finish",
+      "stage": "semi final",
+      "groups": [
+        {
+          "id": 1,
+          "groupName": "Group B",
+          "GameData": "2023-01-05",
+          "player1": "ahmed",
+          "player2": "kaled",
+          "player3": "awad",
+          "player4": "amad",
+          "gameTime": "17:09"
+        }
+      ],
+      "semifinals": [
+        {
+          "id": 1,
+          "semFinalName": "karim",
+          "GameData": "2022-12-30",
+          "player1": "ahmed",
+          "player2": "kaled",
+          "player3": "awad",
+          "player4": "amad",
+          "gameTime": "16:05"
+        }
+      ],
+      "final": []
+    },
+    {
+      "id": 2,
+      "championshipName": "Paddle2 Championship",
+      "numberOfSubscribers": 43,
+      "subscriptionCost": 20,
+      "subscriptionTerms": "",
+      "description": "",
+      "createAt": "2022-12-14",
+      "startingDate": "",
+      "expiryDate": "",
+      "location": "",
+      "status": "active",
+      "stage": "semi final",
+      "groups": [],
+      "semifinals": [
+        {
+          "id": 1,
+          "semFinalName": "karim",
+          "GameData": "2022-12-30",
+          "player1": "ahmed",
+          "player2": "kaled",
+          "player3": "awad",
+          "player4": "amad",
+          "gameTime": "16:05"
+        }
+      ],
+      "final": []
+    },
+    {
+      "id": 3,
+      "championshipName": "Paddle3 Championship",
+      "numberOfSubscribers": 87,
+      "subscriptionCost": 20,
+      "subscriptionTerms": "",
+      "description": "",
+      "createAt": "2022-12-14",
+      "startingDate": "",
+      "expiryDate": "",
+      "location": "",
+      "status": "finish",
+      "stage": "final",
+      "groups": [],
+      "semifinals": [
+        {
+          "id": 1,
+          "semFinalName": "karim",
+          "GameData": "2022-12-30",
+          "player1": "ahmed",
+          "player2": "kaled",
+          "player3": "awad",
+          "player4": "amad",
+          "gameTime": "16:05"
+        }
+      ],
+      "final": []
+    }
+  ],
+  "admins": [
+    {
+      "id": "admin",
+      "idNum": 1,
+      "name": "ahmed",
+      "age": 23,
+      "phoneNumber": "01012988",
+      "email": "ahmed@example.com",
+      "password": "adminuser",
+      "type": "admin",
+      "joinedData": "2022-12-21",
+      "birthday": "2003-12-11",
+      "address": "1234 Main Street, Germany"
+    },
+    {
+      "idNum": 2,
+      "id": "karim2",
+      "name": "karimal",
+      "age": "19",
+      "phoneNumber": "0109999",
+      "password": "12345667",
+      "email": "karim@mail.com",
+      "type": "admin",
+      "joinedData": "2022-12-29",
+      "birthday": "2022-12-23",
+      "address": "dddffd"
+    }
+  ]
+}
